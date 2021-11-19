@@ -2,6 +2,18 @@
 
 A new Flutter project.
 
+### Github Actions
+[!
+[Build Status](https://img.shields.io/appveyor/ci/thiagoloureiro/netcore-jwt-integrator-extension/master.svg)
+](https://ci.appveyor.com/project/thiagoloureiro/netcore-jwt-integrator-extension)
+
+![](https://img.shields.io/appveyor/tests/thiagoloureiro/dapper-crud-extension.svg)
+
+
+### Azure DevOps
+/azure-devops/build/:desenbahiauds/:projectId/:definitionId/:branch
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
