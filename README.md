@@ -3,11 +3,7 @@
 A new Flutter project.
 
 ### Github Actions
-[!
-[Build Status](https://img.shields.io/appveyor/ci/thiagoloureiro/netcore-jwt-integrator-extension/master.svg)
-](https://ci.appveyor.com/project/thiagoloureiro/netcore-jwt-integrator-extension)
-
-![](https://img.shields.io/appveyor/tests/thiagoloureiro/dapper-crud-extension.svg)
+![]https://img.shields.io/github/workflow/status/danielsbezerra/Github-Actions-Flutter/Flutter%20CI?logo=Github
 
 
 ### Azure DevOps
