@@ -5,6 +5,7 @@ A new Flutter project.
 ### Github Actions
 ![]https://img.shields.io/github/workflow/status/danielsbezerra/Github-Actions-Flutter/Flutter%20CI?logo=Github
 
+![]https://img.shields.io/github/languages/count/danielsbezerra/Github-Actions-Flutter
 
 ### Azure DevOps
 /azure-devops/build/:desenbahiauds/:projectId/:definitionId/:branch
