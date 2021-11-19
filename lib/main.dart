@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'commonComponents/custom_card.dart';
+// import 'commonComponents/custom_card.dart';
 
 void main() {
   runApp(const MyApp());
