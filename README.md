@@ -1,5 +1,5 @@
 # Aplicação "app_demo"
-Just a Flutter project...
+Just a Flutter demo project...
 
 ## Github Actions
 ![](https://img.shields.io/github/workflow/status/danielsbezerra/Github-Actions-Flutter/Flutter%20CI?logo=Github)
